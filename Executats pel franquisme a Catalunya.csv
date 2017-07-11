@@ -104,6 +104,7 @@ AMPOSTA AMPOSTA,Virginia,Dona,Consells de guerra,Sumaríssim,004155,1939,1939,Mo
 ANDAVERT SENDRÓS,Jesús,Home,Consells de guerra,Sumaríssim,001243,1939,1939,Mort,Executat,    50955,2406
 ANDEVERT AMENÓS,Juan,Home,Consells de guerra,Causa ordinària,000618,1939,1939,Mort,Executat,    57709,2407
 ANDORRÀ PLAJA,Francisco,Home,Consells de guerra,Sumaríssim,002906,1939,1939,Mort,Executat,      105,2412
+ANDORRÁN EXPÓSITO,Nicolás,Home,Consells de guerra,Sumaríssim,011781,1939,1939,Mort,Executat,    20711,2414
 ANDRÉS MAGALLÓN,Antolín,Home,Consells de guerra,Sumaríssim,000916,1939,1939,Mort,Executat,      642,2443
 ANDREU CLOS,Florencio,Home,Consells de guerra,Causa acumulada,000080,1939,1939,Mort,Executat,    53509,2483
 ANGELATS GUITART,Juan,Home,Consells de guerra,Sumaríssim,000091,1939,1939,Mort,Executat,    55047,2587
@@ -546,6 +547,7 @@ CARBÓ ARSÓ,Vicente,Home,Consells de guerra,Sumaríssim,003776,1939,1939,Mort,E
 CARBÓ FRESQUET,Enrique,Home,Consells de guerra,Sumaríssim,--,1939,1939,Mort,Executat,   53052,12120
 CARBONELL DAUSÀ,Amadeo,Home,Consells de guerra,Sumaríssim,000732,1939,1939,Mort,Executat,   52728,12181
 CARBONELL NOGUERAS,Esteban,Home,Consells de guerra,Sumaríssim,001111,1939,1940,Mort,Executat,   45958,12207
+CARBONERAS ESCOBAR,Ángel,Home,Consells de guerra,Sumaríssim,003975,1939,1939,Mort,Executat,       97,12245
 CÁRCELES CARVAJAL,Juan,Home,Consells de guerra,Sumaríssim,002032,1939,1939,Mort,Executat,     296,12262
 CARDO COROMINAS,José,Home,Consells de guerra,--,011875,1939,1939,Mort,Executat,    2410,12287
 CARDONA BADOQUIO,Ramón,Home,Consells de guerra,Sumaríssim,000946,1938,1939,Mort,Executat,   64356,12297
@@ -1231,6 +1233,7 @@ GARCÍA GONZÁLEZ,Eugenio,Home,Consells de guerra,Sumaríssim,--,1939,1940,Mort,
 GARCÍA HERNÁNDEZ,Manuel,Home,Consells de guerra,Sumaríssim,003278,1939,1940,Mort,Executat,   20719,26094
 GARCÍA JORDÁN,Pedro,Home,Consells de guerra,Sumaríssim,000011,1939,1939,Mort,Executat,        8,26120
 GARCIA LLUNELL,Rosendo,Home,Consells de guerra,Sumaríssim,000053,1939,1939,Mort,Executat,   54741,26143
+GARCÍA LÓPEZ,José,Home,Consells de guerra,Sumaríssim,000473,1939,1942,Mort,Executat,   22139,26160
 GARCÍA MANZANERA,Antonio,Home,Consells de guerra,Sumaríssim,000011,1939,1939,Mort,Executat,        8,26184
 GARCIA MARIÀ,Eusebio,Home,Consells de guerra,--,000152,1939,1939,Mort,Executat,     979,26189
 GARCIA MARTÍ,Francisco,Home,Consells de guerra,Sumaríssim,000005,1939,1939,Mort,Executat,       68,26193
@@ -1344,6 +1347,7 @@ GOMIS BARTRA,Buenaventura,Home,Consells de guerra,--,005707,1939,1939,Mort,Execu
 GOMIS GARRIGA,Valentín,Home,Consells de guerra,Sumaríssim,003816,1939,1940,Mort,Executat,    28198,28768
 GOMIS MARTÍ,Ramón,Home,Consells de guerra,Sumaríssim,003498,1939,1940,Mort,Executat,    22226,28770
 GONZALBO BENEDICTO,José,Home,Consells de guerra,Sumaríssim,025204,1941,1942,Mort,Executat,    22684,28807
+GONZÁLEZ ALONSO,Antonio,Home,Consells de guerra,Sumaríssim,007303,1939,1939,Mort,Executat,      491,28815
 GONZÁLEZ ATIENZA,José,Home,Consells de guerra,Sumaríssim,003277,1939,1939,Mort,Executat,        37,28831
 GONZÁLEZ BATLLE,Miguel,Home,Consells de guerra,Sumaríssim,004105,1939,1939,Mort,Executat,      347,28844
 GONZÁLEZ BOFARULL,Sebastián,Home,Consells de guerra,Sumaríssim,017881,1939,1943,Mort,Executat,    36099,28851
@@ -1635,6 +1639,7 @@ LÓPEZ ÁLVAREZ,Francisco,Home,Consells de guerra,Sumaríssim,001543,1939,1939,M
 LÓPEZ ÁVILA,Antonio,Home,Consells de guerra,--,--,1939,1939,Mort,Executat,     6124,34921
 LÓPEZ BLANCH,Miguel,Home,Consells de guerra,Sumaríssim,016210,1939,1940,Mort,Executat,    42785,34941
 LÓPEZ BOLARÍN,Francisco,Home,Consells de guerra,Sumaríssim,008144,1939,1939,Mort,Executat,      559,34945
+LÓPEZ ESCUER,Agustín,Home,Consells de guerra,Sumaríssim,000410,1938,1938,Mort,Executat,    59361,35022
 LÓPEZ GARCÍA,Manuel,Home,Consells de guerra,Sumaríssim,000327,1939,1939,Mort,Executat,      316,35076
 LÓPEZ GAUSI,Emilio,Home,Consells de guerra,Sumaríssim,012609,1939,1940,Mort,Executat,    43797,35083
 LÓPEZ GÓMEZ,Pedro,Home,Consells de guerra,Sumaríssim,011563,1939,1939,Mort,Executat,      708,35094
@@ -2284,6 +2289,9 @@ PISAS SANTOLARIA,José,Home,Consells de guerra,Sumaríssim,005032,1939,1939,Mort
 PLA AULET,Juan,Home,Consells de guerra,Sumaríssim,007810,1939,1939,Mort,Executat,      698,49089
 PLA BEL,José,Home,Consells de guerra,Sumaríssim,008146,1939,1939,Mort,Executat,      543,49092
 PLÀ BEL,Ramón,Home,Consells de guerra,Sumaríssim,010794,1939,1943,Mort,Executat,    42846,49093
+PLA COLL,Miguel,Home,Consells de guerra,--,--,1939,1939,Mort,Executat,    55993,49105
+PLA CUBIÑÀ,Luis,Home,Consells de guerra,Causa acumulada,000099,1939,1939,Mort,Executat,    57012,49113
+PLA FARRAN,Miguel,Home,Consells de guerra,Sumaríssim,002905,1939,1940,Mort,Executat,    36301,49121
 PLA LLIDÓ,José,Home,Consells de guerra,Sumaríssim,000474,1940,1940,Mort,Executat,    39747,49133
 PLA MASANA,José,Home,Diligències prèvies,Diligències prèvies,001273,1940,1943,Mort,Executat,    34411,49143
 PLA MOTA,José,Home,Consells de guerra,Sumaríssim,001541,1939,1940,Mort,Executat,    18986,49155
@@ -2549,6 +2557,7 @@ RIUS BOIRA,Delfín,Home,Consells de guerra,Sumaríssim,006440,1939,1939,Mort,Exe
 RIUS BUIXÓ,José,Home,Consells de guerra,Sumaríssim,--,1940,1940,Mort,Executat,    16087,53991
 RIUS CAPDEVILA,Miguel,Home,Consells de guerra,Sumaríssim,000011,1939,1939,Mort,Executat,         8,53995
 RIUS LÓPEZ,Matias,Home,Consells de guerra,Sumaríssim,--,1940,1940,Mort,Executat,    21788,54026
+RIUS MUR,Miguel,Home,Consells de guerra,Sumaríssim,004316,1939,1940,Mort,Executat,    13675,54049
 RIUS PEGUERA,Ramón,Home,Consells de guerra,--,--,1943,,Mort,Executat,    46225,54052
 RIUS VILA,Miguel,Home,Consells de guerra,Sumaríssim,002768,1940,1942,Mort,Executat,    49459,54077
 RIVAS CÁRCER,Enrique,Home,Consells de guerra,Sumaríssim,017892,1939,1940,Mort,Executat,    18829,54097
@@ -2703,6 +2712,7 @@ RUIZ MARTÍNEZ,Nicanor,Home,Consells de guerra,Sumaríssim,001567,1939,1939,Mort
 RUIZ SERRANO,Pedro,Home,Consells de guerra,Sumaríssim,001878,1939,1939,Mort,Executat,    50964,56937
 RUIZ SOLÀ,José,Home,Consells de guerra,Sumaríssim,010794,1939,1943,Mort,Executat,    42846,56939
 RUIZ VINUESA,Antonio,Home,Consells de guerra,Sumaríssim,005817,1939,1940,Mort,Executat,    15285,56947
+RULL BALAÑÀ,Ángel,Home,Consells de guerra,Sumaríssim,024008,1940,1942,Mort,Executat,    28576,56958
 RULL INGLÈS,José,Home,Consells de guerra,Sumaríssim,000236,1939,1939,Mort,Executat,    50537,56970
 RULL PRATS,Manuel,Home,Consells de guerra,Sumaríssim,000235,1939,1939,Mort,Executat,    54839,56974
 RUSIÑOL CANUDAS,Esteban,Home,Consells de guerra,--,004441,1939,1940,Mort,Executat,     7867,57007
@@ -3202,6 +3212,7 @@ VENTURA SAVALLS,Bernardo,Home,Consells de guerra,Sumaríssim,008541,1939,1939,Mo
 VENTURA SOLÉ,José,Home,Consells de guerra,--,--,1939,1939,Mort,Executat,    38361,66904
 VERDIELL TALLADA,Bautista,Home,Consells de guerra,Sumaríssim,000518,1939,1939,Mort,Executat,    51626,67015
 VERDÚ ZAMORA,Román,Home,Consells de guerra,Causa ordinària,033974,1945,1949,Mort,Executat,    89379,67036
+VERGE CAÑIGUERAL,Joaquín,Home,Consells de guerra,Sumaríssim,000759,1939,1939,Mort,Executat,    54903,67054
 VERGÉS AGUSTÍ,Miguel,Home,Consells de guerra,Sumaríssim,000549,1939,1939,Mort,Executat,      221,67071
 VERGÉS CARBONELL,Ramón,Home,Consells de guerra,Sumaríssim,003738,1939,1939,Mort,Executat,      628,67079
 VERGÉS COLL,Vicente,Home,Consells de guerra,Sumaríssim,000981,1939,1939,Mort,Executat,    20008,67082

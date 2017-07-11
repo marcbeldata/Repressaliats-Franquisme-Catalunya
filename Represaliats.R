@@ -116,12 +116,18 @@ final2$Commutacio[final2$Commutacio == "ex"] <- "Executat"
 final2$Commutacio[final2$Commutacio == "exe"] <- "Executat"
 final2$Commutacio[final2$Commutacio == "exec"] <- "Executat"
 final2$Commutacio[final2$Commutacio == "execu"] <- "Executat"
+final2$Commutacio[final2$Commutacio == "execut"] <- "Executat"
 final2$Commutacio[final2$Commutacio == "executa"] <- "Executat"
 final2$Commutacio[final2$Commutacio == "executatc"] <- "Executat"
 final2$Commutacio[final2$Commutacio == "executatcu"] <- "Executat"
 final2$Commutacio[final2$Commutacio == "executatcut"] <- "Executat"
 final2$Commutacio[final2$Commutacio == "executatcuta"] <- "Executat"
+final2$Commutacio[final2$Commutacio == "exe Francisco"] <- "Executat"
 final2$Commutacio[final2$Commutacio == "executatFrancisco"] <- "Executat"
+final2$Commutacio[final2$Commutacio == "Reclusió perpètua              exe"] <- "Executat"
+final2$Commutacio[final2$Commutacio == "Sis anys i un dia de presó     exe major"] <- "Executat"
+final2$Commutacio[final2$Commutacio == "Dotze anys de presó major      exe"] <- "Executat"
+
 final2$Commutacio[29740] <- "Executat"
 final2$Commutacio[47093] <- "Executat"
 
@@ -153,6 +159,3 @@ executed <- final2 %>%
 
 write_csv(executed, "Executats pel franquisme a Catalunya.csv")
 WriteXLS(executed, "Executats pel franquisme a Catalunya.xlsx")
-
-
-
